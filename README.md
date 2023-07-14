@@ -21,3 +21,9 @@ Des blagues et des animaux. Proposer la vôtre si elle me faire rire, je l'inclu
 **R:** L'électrichien.
 
 ---
+
+**Q:** Quel animal poilu est aussi un capteur de position angulaire ?
+
+**R:** Le girafoscope.
+
+---
