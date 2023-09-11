@@ -10,10 +10,11 @@ Jokes with animals. Submit your own, if they make me laugh, I'll merge them.
 
 **A:** Because he's shellfish.
 
+---
+
 **Q:** 🦁 What do you call a lion who changes color?
 
 **A:** a chame-lion.
-
 
 ---
 
@@ -31,6 +32,8 @@ Des blagues et des animaux. Proposer la vôtre si elle me faire rire, je l'inclu
 **Q:** Quel animal poilu est aussi un capteur de position angulaire ?
 
 **R:** Le girafoscope.
+
+---
 
 **Q:** 🦁 Comment s'appelle un lion qui change de couleur ?
 
