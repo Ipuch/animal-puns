@@ -12,6 +12,12 @@ Jokes with animals. Submit your own, if they make me laugh, I'll merge them.
 
 ---
 
+**Q:** 🦁 What do you call a lion who changes color?
+
+**A:** a chame-lion.
+
+---
+
 # En Français 🇫🇷
 Des blagues et des animaux. Proposer la vôtre si elle me faire rire, je l'inclus dans ce fichier.
 
@@ -29,6 +35,13 @@ Des blagues et des animaux. Proposer la vôtre si elle me faire rire, je l'inclu
 
 ---
 
+**Q:** 🦁 Comment s'appelle un lion qui change de couleur ?
+
+**A:** un camé-léon.
+
+---
+
 **Q:** Quel est l'animal poilu le plus séducteur?
 
 **R:** Le raton-loveur.
+
