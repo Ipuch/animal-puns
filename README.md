@@ -1,14 +1,13 @@
 # animal-puns
-🐶🐱🐭🐹🐰🦊🐻🐼🐨🐯🦁🐮🐷🐽🐸🐵🙈🙉🙊🐒🦍🐔🐧🐦🐤🐣🐥🦆🦅🦉🦇🐺🐗🦊🐴🦄🐝🐛🦋🐌
 
 # In English 🇺🇸
 Jokes with animals. Submit your own, if they make me laugh, I'll merge them.
 
 ---
 
-**Q:** Why did the crab never share?
+Q: Where do polar bears vote?
 
-**A:** Because he's shellfish.
+A: The North Poll
 
 ---
 
