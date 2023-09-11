@@ -28,3 +28,7 @@ Des blagues et des animaux. Proposer la vôtre si elle me faire rire, je l'inclu
 **R:** Le girafoscope.
 
 ---
+
+**Q:** Quel est l'animal poilu le plus séducteur?
+
+**R:** Le raton-loveur.
