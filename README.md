@@ -1,4 +1,5 @@
 # animal-puns
+🐶🐱🐭🐹🐰🦊🐻🐼🐨🐯🦁🐮🐷🐽🐸🐵🙈🙉🙊🐒🦍🐔🐧🐦🐤🐣🐥🦆🦅🦉🦇🐺🐗🦊🐴🦄🐝🐛🦋🐌
 
 # In English 🇺🇸
 Jokes with animals. Submit your own, if they make me laugh, I'll merge them.
