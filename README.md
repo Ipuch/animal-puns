@@ -12,6 +12,12 @@ Jokes with animals. Submit your own, if they make me laugh, I'll merge them.
 
 ---
 
+**Q:** Where do polar bears vote?
+
+**A:** The North Poll
+
+---
+
 **Q:** 🦁 What do you call a lion who changes color?
 
 **A:** a chame-lion.
