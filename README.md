@@ -5,9 +5,9 @@ Jokes with animals. Submit your own, if they make me laugh, I'll merge them.
 
 ---
 
-**Q:** Why did the crab never share?
+Q: Why did the sheep go to space?
+A: To see if there was any life on the other planets!
 
-**A:** Because he's shellfish.
 
 ---
 
