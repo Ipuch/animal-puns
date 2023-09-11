@@ -12,6 +12,12 @@ Jokes with animals. Submit your own, if they make me laugh, I'll merge them.
 
 ---
 
+**Q:** Where do polar bears vote?
+
+**A:** The North Poll
+
+---
+
 # En Français 🇫🇷
 Des blagues et des animaux. Proposer la vôtre si elle me faire rire, je l'inclus dans ce fichier.
 
