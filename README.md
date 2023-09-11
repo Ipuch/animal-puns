@@ -11,6 +11,12 @@ Jokes with animals. Submit your own, if they make me laugh, I'll merge them.
 
 ---
 
+What do you get when you cross a snowman and a dog?
+
+Frostbite!
+
+---
+
 # En Français
 Des blagues et des animaux. Proposer la vôtre si elle me faire rire, je l'inclus dans ce fichier.
 
