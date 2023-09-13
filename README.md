@@ -29,6 +29,12 @@ Jokes with animals. Submit your own, if they make me laugh, I'll merge them.
 
 ---
 
+**Q:** Why do fish never use the internet?
+
+**A:** Because they are afraid of the 'net'
+
+---
+
 # En Français 🇫🇷
 Des blagues et des animaux. Proposer la vôtre si elle me faire rire, je l'inclus dans ce fichier.
 
@@ -61,4 +67,16 @@ Des blagues et des animaux. Proposer la vôtre si elle me faire rire, je l'inclu
 **Q:** Quel est l'animal poilu le plus séducteur?
 
 **R:** Le raton-loveur.
+
+---
+
+# In Persian 🇮🇷
+
+---
+
+**Q:** چرا ماهی‌ها هیچ‌وقت اینترنت ندارند
+
+**A:** چون از شبکه‌ها می‌ترسند     
+
+---
 
