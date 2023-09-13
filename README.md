@@ -9,6 +9,12 @@ Q: Where do polar bears vote?
 
 A: The North Poll
 
+
+Q: What do you call a bear with no teeth?
+
+A: A gummy bear!
+
+
 ---
 
 # En Français 🇫🇷
