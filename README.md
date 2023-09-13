@@ -1,13 +1,31 @@
 # animal-puns
+🐶🐱🐭🐹🐰🦊🐻🐼🐨🐯🦁🐮🐷🐽🐸🐵🙈🙉🙊🐒🦍🐔🐧🐦🐤🐣🐥🦆🦅🦉🦇🐺🐗🦊🐴🦄🐝🐛🦋🐌
 
 # In English 🇺🇸
 Jokes with animals. Submit your own, if they make me laugh, I'll merge them.
 
 ---
 
-Q: Why did the sheep go to space?
-A: To see if there was any life on the other planets!
+**Q:** Why did the sheep go to space?
 
+**A:** To see if there was any life on the other planets!
+
+---
+
+**Q:** Why did the crab never share?
+
+
+---
+
+**Q:** Where do polar bears vote?
+
+**A:** The North Poll
+
+---
+
+**Q:** 🦁 What do you call a lion who changes color?
+
+**A:** a chame-lion.
 
 ---
 
@@ -22,8 +40,25 @@ Des blagues et des animaux. Proposer la vôtre si elle me faire rire, je l'inclu
 
 ---
 
+**Q:** Quel animal poilu donne des médicaments ?
+
+**R:** Le pharmachien.
+
+---
+
 **Q:** Quel animal poilu est aussi un capteur de position angulaire ?
 
 **R:** Le girafoscope.
 
 ---
+
+**Q:** 🦁 Comment s'appelle un lion qui change de couleur ?
+
+**A:** un camé-léon.
+
+---
+
+**Q:** Quel est l'animal poilu le plus séducteur?
+
+**R:** Le raton-loveur.
+
