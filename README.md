@@ -14,7 +14,7 @@ Jokes with animals. Submit your own, if they make me laugh, I'll merge them.
 
 **Q:** Why did the crab never share?
 
-
+**A:** Because he's shellfish.
 ---
 
 **Q:** Where do polar bears vote?
@@ -64,7 +64,7 @@ Des blagues et des animaux. Proposer la vôtre si elle me faire rire, je l'inclu
 
 ---
 
-# به فارسی 🇮🇷🇮🇷 
+# به فارسی 🇮🇷️
 شوخی‌ها با حیوانات. اگر خودتان شوخی بسازید و اگر مرا خنداند، آنها را ادغام خواهم کرد.
 
 ---
