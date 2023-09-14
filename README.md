@@ -15,6 +15,7 @@ Jokes with animals. Submit your own, if they make me laugh, I'll merge them.
 **Q:** Why did the crab never share?
 
 **A:** Because he's shellfish.
+
 ---
 
 **Q:** Where do polar bears vote?
