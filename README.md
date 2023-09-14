@@ -15,7 +15,6 @@ Jokes with animals. Submit your own, if they make me laugh, I'll merge them.
 **Q:** Why did the crab never share?
 
 **A:** Because he's shellfish.
-
 ---
 
 **Q:** Where do polar bears vote?
@@ -62,4 +61,17 @@ Des blagues et des animaux. Proposer la vôtre si elle me faire rire, je l'inclu
 **Q:** Quel est l'animal poilu le plus séducteur?
 
 **R:** Le raton-loveur.
+
+---
+
+# به فارسی 🇮🇷️
+شوخی‌ها با حیوانات. اگر خودتان شوخی بسازید و اگر مرا خنداند، آنها را ادغام خواهم کرد.
+
+---
+
+**س:** چرا ماهی‌ها هیچ‌وقت اینترنت ندارند
+
+**ج:** چون از شبکه‌ها می‌ترسند     
+
+---
 
