@@ -15,6 +15,7 @@ Jokes with animals. Submit your own, if they make me laugh, I'll merge them.
 **Q:** Why did the crab never share?
 
 **A:** Because he's shellfish.
+
 ---
 
 **Q:** Where do polar bears vote?
@@ -71,7 +72,19 @@ Des blagues et des animaux. Proposer la vôtre si elle me faire rire, je l'inclu
 
 **س:** چرا ماهی‌ها هیچ‌وقت اینترنت ندارند
 
-**ج:** چون از شبکه‌ها می‌ترسند     
+**ج:** چون از شبکه‌ها می‌ترسند
+
+---
+
+**س:** چرا خرگوش‌ها هیچ وقت قرارداد با کارخانه‌های آب‌معدنی نمی‌بندند؟
+
+**ج:** چون هرگز نمی‌توانند کپسول‌های آب را با دندانهای کوچک خود باز کنند!
+
+---
+
+**س:**چرا گوسفندها هیچ وقت در مسابقات پرش از ترامپولین شرکت نمی‌کنند؟
+
+**ج:** چون همیشه ترس دارند که پشم‌های خود را از دست دهند!
 
 ---
 
