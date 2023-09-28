@@ -35,6 +35,12 @@ Des blagues et des animaux. Proposer la vôtre si elle me faire rire, je l'inclu
 
 ---
 
+**Q:** Quel animal est enterré dans une pyramide ?
+
+**R:** Toucankamon
+
+---
+
 **Q:** Quel animal poilu change les ampoules ?
 
 **R:** L'électrichien.
@@ -65,11 +71,10 @@ Des blagues et des animaux. Proposer la vôtre si elle me faire rire, je l'inclu
 
 ---
 
-**Q:** Quel animal est enterré dans une pyramide ?
 
-**A:** Toucankamon
 
----
+
+
 # به فارسی 🇮🇷️
 شوخی‌ها با حیوانات. اگر خودتان شوخی بسازید و اگر مرا خنداند، آنها را ادغام خواهم کرد.
 
