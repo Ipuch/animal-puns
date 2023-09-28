@@ -55,13 +55,19 @@ Des blagues et des animaux. Proposer la vôtre si elle me faire rire, je l'inclu
 
 **Q:** 🦁 Comment s'appelle un lion qui change de couleur ?
 
-**A:** un camé-léon.
+**R:** un camé-léon.
 
 ---
 
 **Q:** Quel est l'animal poilu le plus séducteur?
 
 **R:** Le raton-loveur.
+
+---
+
+**Q:** Quel est l'animal le plus timide?
+
+**R:** Le cachalot
 
 ---
 
