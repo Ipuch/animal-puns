@@ -45,6 +45,12 @@ Jokes with animals. Submit your own, if they make me laugh, I'll merge them.
 # En Français 🇫🇷
 Des blagues et des animaux. Proposer la vôtre si elle me faire rire, je l'inclus dans ce fichier.
 
+--- 
+
+**Q:** Pourquoi monsieur Hérisson traverse toujours avant madame Hérisson ?
+ 
+**R:** Parce qu'il veut lui montrer ce qu'il a dans le ventre.
+
 ---
 
 **Q:** Quel animal est enterré dans une pyramide ?
