@@ -101,6 +101,23 @@ Des blagues et des animaux. Proposer la vôtre si elle me faire rire, je l'inclu
 
 ---
 
+# In Deutsch 🇩🇪
+Witze mit Tieren. Reiche deine eigenen ein, wenn sie mich zum Lachen bringen, werde ich sie einfügen.
+
+---
+
+**F:** Was ist weiss, schnarcht und liegt auf einer Wiese?
+
+**A:** ein Schlaf
+
+---
+
+**F:** Was ist braun, klebrig und lebt in der Wüste?
+
+**A:** ein Karamel
+
+---
+
 # به فارسی 🇮🇷️
 شوخی‌ها با حیوانات. اگر خودتان شوخی بسازید و اگر مرا خنداند، آنها را ادغام خواهم کرد.
 
